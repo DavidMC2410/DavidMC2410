@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Moreno</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate backend developer from Venezuela</h3>
 
 - 🔭 I’m currently working on [Hervels](https://deploy-countries-pi-project.vercel.app/home)
 
